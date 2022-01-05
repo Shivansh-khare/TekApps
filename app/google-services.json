@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "637865767904",
+    "project_id": "axial-willow-323510",
+    "storage_bucket": "axial-willow-323510.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637865767904:android:ba3c73ba214d1d1f10f185",
+        "android_client_info": {
+          "package_name": "com.example.tekapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637865767904-ffvo5g89jtskv5n9cu6dnpv2ajc7rhed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk38OJ6ZpGMlqsk_JEP9ZKESUGg56gRUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637865767904-ffvo5g89jtskv5n9cu6dnpv2ajc7rhed.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
